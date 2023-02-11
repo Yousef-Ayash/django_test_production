@@ -1,0 +1,4 @@
+django
+gunicorn
+black
+python_dotenv
